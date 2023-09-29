@@ -1,5 +1,7 @@
 import { Container, Logo, BackButton } from "./styles";
-import { CaretLeft, HouseLine } from "phosphor-react-native";
+import { CaretLeft } from "phosphor-react-native";
+
+import logoImg from "../../assets/logo.png";
 
 type Props = {
   showBackButton?: boolean;
@@ -13,7 +15,8 @@ export function Header({ showBackButton = false }: Props) {
           <CaretLeft color="#00875F" size={32} />
         </BackButton>
       )}
-      <HouseLine size={44} color="#00B37E" weight="fill" />
+
+      <Logo source={logoImg} />
     </Container>
   );
 }

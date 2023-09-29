@@ -1,1 +1,1 @@
-export module "*.png";
+declare module "*.png";
