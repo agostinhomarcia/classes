@@ -7,9 +7,11 @@ import {
 
 import theme from "./src/theme";
 
-import { Groups } from "./src/screens/Groups";
+// import { Groups } from "./src/screens/Groups";
 import { Loading } from "./src/components/Loading";
 import { StatusBar } from "react-native";
+// import { NewGroup } from "./src/screens/NewGroups";
+import { Players } from "./src/screens/Players";
 export default function App() {
   const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_700Bold });
 
@@ -20,7 +22,9 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      {fontsLoaded ? <Groups /> : <Loading />}
+      {/* {fontsLoaded ? <Groups /> : <Loading />} */}
+      {/* {fontsLoaded ? <NewGroup /> : <Loading />} */}
+      {fontsLoaded ? <Players /> : <Loading />}
     </ThemeProvider>
   );
 }
