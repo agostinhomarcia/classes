@@ -37,7 +37,7 @@
 
 ## :dart: About
 
-<h4 align="center"> Diety </h4>
+<h4 align="center"> Cadastro de Turmas/Grupos </h4>
 
 <p>
    A finalidade da aplicação é cadastrar grupos ou turmas e gerenciar seus participantes, com a capacidade de adicionar, remover participantes e excluir grupos inteiros.
