@@ -39,20 +39,41 @@
 
 <h4 align="center"> Cadastro de Turmas/Grupos </h4>
 
-<p>
 Descrição da Aplicação:
 
-A finalidade principal da nossa aplicação é fornecer uma plataforma intuitiva para cadastrar grupos ou turmas e gerenciar seus participantes de forma eficiente. Nossa aplicação se concentra em otimizar a experiência do usuário, permitindo a adição, remoção e exclusão de participantes em grupos específicos, promovendo uma gestão simplificada e robusta.
+A finalidade principal do aplicativo é fornecer uma plataforma intuitiva para cadastrar grupos ou turmas e gerenciar seus participantes de forma eficiente.
+
+Essa aplicação se concentra em otimizar a experiência do usuário, permitindo a adição, remoção e exclusão de participantes em grupos específicos, promovendo uma gestão simplificada e robusta.
 
 Tecnologias Utilizadas:
 
-React Native: A base de desenvolvimento da nossa aplicação, garantindo uma experiência móvel eficaz.
-React Navigation: Para a criação de uma navegação fluída e organizada entre diferentes telas e funcionalidades.
-Redux ou Context API: Utilizamos a gestão de estado para manter informações importantes acessíveis a todas as partes da nossa aplicação.
-Async Storage: Armazenamento assíncrono de dados locais, permitindo que os dados sejam salvos e recuperados de forma eficiente.
-Styled Components: Para garantir que a aplicação tenha um design atraente e fácil de manter.
-Typescript: Implementado para fornecer um código mais seguro e legível, minimizando erros de desenvolvimento.
-Componentização: Utilizamos componentes reutilizáveis para manter o código organizado e facilitar a manutenção. </p>
+#### React Native:
+
+A base de desenvolvimento da aplicação,garantindo uma experiência móvel eficaz.
+
+#### React Navigation:
+
+Para a criação de uma navegação fluída e organizada entre diferentes telas e funcionalidades.
+
+#### Redux ou Context API:
+
+Para manter informações importantes acessíveis a todas as partes da aplicação.
+
+#### Async Storage:
+
+Armazenamento assíncrono de dados locais, permitindo que os dados sejam salvos e recuperados de forma eficiente.
+
+#### Styled Components:
+
+Para garantir que a aplicação tenha um design atraente e fácil de manter.
+
+#### Typescript:
+
+Implementado para fornecer um código mais seguro e legível, minimizando erros de desenvolvimento.
+
+#### Componentização:
+
+Componentes reutilizáveis para manter o código organizado e facilitar a manutenção.
 
 </p>
 
