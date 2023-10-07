@@ -40,25 +40,19 @@
 <h4 align="center"> Cadastro de Turmas/Grupos </h4>
 
 <p>
-   A finalidade da aplicação é cadastrar grupos ou turmas e gerenciar seus participantes, com a capacidade de adicionar, remover participantes e excluir grupos inteiros.
+Descrição da Aplicação:
+
+A finalidade principal da nossa aplicação é fornecer uma plataforma intuitiva para cadastrar grupos ou turmas e gerenciar seus participantes de forma eficiente. Nossa aplicação se concentra em otimizar a experiência do usuário, permitindo a adição, remoção e exclusão de participantes em grupos específicos, promovendo uma gestão simplificada e robusta.
 
 Tecnologias Utilizadas:
 
-React Native;
-
-React Navigation;
-
-Redux ou Context API;
-
-Async Storage;
-
-Styled Components;
-
-Typescript;
-
-Components;
-
-No geral, o projeto se concentra na gestão de grupos e participantes, com ênfase na usabilidade e na capacidade de adicionar, remover e gerenciar os participantes associados a grupos específicos. </p>
+React Native: A base de desenvolvimento da nossa aplicação, garantindo uma experiência móvel eficaz.
+React Navigation: Para a criação de uma navegação fluída e organizada entre diferentes telas e funcionalidades.
+Redux ou Context API: Utilizamos a gestão de estado para manter informações importantes acessíveis a todas as partes da nossa aplicação.
+Async Storage: Armazenamento assíncrono de dados locais, permitindo que os dados sejam salvos e recuperados de forma eficiente.
+Styled Components: Para garantir que a aplicação tenha um design atraente e fácil de manter.
+Typescript: Implementado para fornecer um código mais seguro e legível, minimizando erros de desenvolvimento.
+Componentização: Utilizamos componentes reutilizáveis para manter o código organizado e facilitar a manutenção. </p>
 
 </p>
 
