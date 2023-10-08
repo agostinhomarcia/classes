@@ -106,7 +106,7 @@ $ cd classes
 $ yarn or npm install
 # Run the project
 $ yarn start or npm start
-# The server will initialize in the <exp://127.0.0.1:8081>
+# The server will initialize in the <exp://192.168.15.3:8081>
 ```
 
 ## :memo: License
